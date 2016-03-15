@@ -1,5 +1,5 @@
 {
-    "name"    : "dangelzm/wp-plugin-hello"
+    "name"    : "dangelzm/wp-plugin-hello",
     "type"    : "wordpress-plugin",
     "require" : {
         "composer/installers" : "~1.0"
